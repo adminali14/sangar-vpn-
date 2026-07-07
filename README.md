@@ -1,2 +1,2 @@
-# sangar-vpn-
-As
+# Sangar VPN
+Android Xray VPN Client
